@@ -45,6 +45,6 @@ This project presents a MATLAB-based techno-economic analysis of a renewable ene
 
 ## Author
 
-Sagar Namdev Gangurde
+Sagar Gangurde
 
 Electrical Engineering
